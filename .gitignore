@@ -1,0 +1,27 @@
+# --- PYTHON DERLEME DOSYALARI (Gereksiz) ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- SANAL ORTAMLAR (Çok yer kaplar, GÖNDERME!) ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- IDE AYARLARI (Senin bilgisayarına özeldir) ---
+.idea/
+.vscode/
+*.swp
+
+# --- VERİTABANI (Kod otomatik oluşturduğu için gerek yok) ---
+*.db
+*.sqlite3
+data/social_network.db
+
+# --- İŞLETİM SİSTEMİ DOSYALARI ---
+.DS_Store
+Thumbs.db
+
+# --- LOG DOSYALARI --
+*.log
