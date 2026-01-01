@@ -1,0 +1,212 @@
+{
+    "nodes": [
+        {
+            "id": 1,
+            "name": "Mert Günok",
+            "mevki": "Kaleci",
+            "hiz": 0.4,
+            "pas": 0.8,
+            "sut": 50.0,
+            "defans": 0.95,
+            "fizik": 50.0,
+            "tecrube": 50.0
+        },
+        {
+            "id": 2,
+            "name": "Jonas Svensson",
+            "mevki": "Defans",
+            "hiz": 0.75,
+            "pas": 0.7,
+            "sut": 50.0,
+            "defans": 0.75,
+            "fizik": 50.0,
+            "tecrube": 50.0
+        },
+        {
+            "id": 3,
+            "name": "Gabriel Paulista",
+            "mevki": "Defans",
+            "hiz": 0.6,
+            "pas": 0.65,
+            "sut": 50.0,
+            "defans": 0.92,
+            "fizik": 50.0,
+            "tecrube": 50.0
+        },
+        {
+            "id": 4,
+            "name": "Felix Uduokhai",
+            "mevki": "Defans",
+            "hiz": 0.65,
+            "pas": 0.7,
+            "sut": 50.0,
+            "defans": 0.88,
+            "fizik": 50.0,
+            "tecrube": 50.0
+        },
+        {
+            "id": 5,
+            "name": "Arthur Masuaku",
+            "mevki": "Defans",
+            "hiz": 0.8,
+            "pas": 0.8,
+            "sut": 50.0,
+            "defans": 0.65,
+            "fizik": 50.0,
+            "tecrube": 50.0
+        },
+        {
+            "id": 6,
+            "name": "Al-Musrati",
+            "mevki": "Orta Saha",
+            "hiz": 0.45,
+            "pas": 0.92,
+            "sut": 50.0,
+            "defans": 0.85,
+            "fizik": 50.0,
+            "tecrube": 50.0
+        },
+        {
+            "id": 7,
+            "name": "Gedson Fernandes",
+            "mevki": "Orta Saha",
+            "hiz": 0.88,
+            "pas": 0.8,
+            "sut": 50.0,
+            "defans": 0.75,
+            "fizik": 50.0,
+            "tecrube": 50.0
+        },
+        {
+            "id": 8,
+            "name": "Milot Rashica",
+            "mevki": "Orta Saha",
+            "hiz": 0.82,
+            "pas": 0.78,
+            "sut": 50.0,
+            "defans": 0.6,
+            "fizik": 50.0,
+            "tecrube": 50.0
+        },
+        {
+            "id": 9,
+            "name": "Rafa Silva",
+            "mevki": "Orta Saha",
+            "hiz": 0.9,
+            "pas": 0.95,
+            "sut": 50.0,
+            "defans": 0.4,
+            "fizik": 50.0,
+            "tecrube": 50.0
+        },
+        {
+            "id": 10,
+            "name": "Semih Kılıçsoy",
+            "mevki": "Forvet",
+            "hiz": 0.85,
+            "pas": 0.7,
+            "sut": 50.0,
+            "defans": 0.4,
+            "fizik": 50.0,
+            "tecrube": 50.0
+        },
+        {
+            "id": 11,
+            "name": "Ciro Immobile",
+            "mevki": "Forvet",
+            "hiz": 0.75,
+            "pas": 0.7,
+            "sut": 0.96,
+            "defans": 50.0,
+            "fizik": 50.0,
+            "tecrube": 50.0
+        }
+    ],
+    "edges": [
+        {
+            "source": 1,
+            "target": 3,
+            "weight": 1.0
+        },
+        {
+            "source": 1,
+            "target": 4,
+            "weight": 1.0
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "weight": 1.2
+        },
+        {
+            "source": 5,
+            "target": 4,
+            "weight": 1.2
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "weight": 1.5
+        },
+        {
+            "source": 3,
+            "target": 6,
+            "weight": 1.0
+        },
+        {
+            "source": 4,
+            "target": 7,
+            "weight": 1.0
+        },
+        {
+            "source": 6,
+            "target": 7,
+            "weight": 1.4
+        },
+        {
+            "source": 2,
+            "target": 8,
+            "weight": 1.3
+        },
+        {
+            "source": 5,
+            "target": 10,
+            "weight": 1.3
+        },
+        {
+            "source": 6,
+            "target": 9,
+            "weight": 1.2
+        },
+        {
+            "source": 7,
+            "target": 9,
+            "weight": 1.2
+        },
+        {
+            "source": 8,
+            "target": 9,
+            "weight": 1.1
+        },
+        {
+            "source": 10,
+            "target": 9,
+            "weight": 1.1
+        },
+        {
+            "source": 9,
+            "target": 11,
+            "weight": 1.5
+        },
+        {
+            "source": 8,
+            "target": 11,
+            "weight": 1.0
+        },
+        {
+            "source": 10,
+            "target": 11,
+            "weight": 1.0
+        }
+    ]
+}

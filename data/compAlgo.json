@@ -1,0 +1,177 @@
+{
+    "nodes": [
+        {
+            "id": 1,
+            "name": "BASLANGIC",
+            "mevki": "Orta Saha",
+            "hiz": 10.0,
+            "pas": 10.0,
+            "sut": 50.0,
+            "defans": 5.0,
+            "fizik": 50.0,
+            "tecrube": 50.0
+        },
+        {
+            "id": 2,
+            "name": "Dogru Yol 1",
+            "mevki": "Orta Saha",
+            "hiz": 7.5,
+            "pas": 7.5,
+            "sut": 50.0,
+            "defans": 4.0,
+            "fizik": 50.0,
+            "tecrube": 50.0
+        },
+        {
+            "id": 3,
+            "name": "Dogru Yol 2",
+            "mevki": "Orta Saha",
+            "hiz": 5.0,
+            "pas": 5.0,
+            "sut": 50.0,
+            "defans": 3.0,
+            "fizik": 50.0,
+            "tecrube": 50.0
+        },
+        {
+            "id": 4,
+            "name": "Dogru Yol 3",
+            "mevki": "Orta Saha",
+            "hiz": 2.5,
+            "pas": 2.5,
+            "sut": 50.0,
+            "defans": 2.0,
+            "fizik": 50.0,
+            "tecrube": 50.0
+        },
+        {
+            "id": 5,
+            "name": "HEDEF NOKTASI",
+            "mevki": "Forvet",
+            "hiz": 0.0,
+            "pas": 0.0,
+            "sut": 50.0,
+            "defans": 0.0,
+            "fizik": 50.0,
+            "tecrube": 50.0
+        },
+        {
+            "id": 10,
+            "name": "Tuzak 1",
+            "mevki": "Defans",
+            "hiz": 10.1,
+            "pas": 10.1,
+            "sut": 50.0,
+            "defans": 5.0,
+            "fizik": 50.0,
+            "tecrube": 50.0
+        },
+        {
+            "id": 11,
+            "name": "Tuzak 2",
+            "mevki": "Defans",
+            "hiz": 10.2,
+            "pas": 10.2,
+            "sut": 50.0,
+            "defans": 5.0,
+            "fizik": 50.0,
+            "tecrube": 50.0
+        },
+        {
+            "id": 12,
+            "name": "Tuzak 3",
+            "mevki": "Defans",
+            "hiz": 10.3,
+            "pas": 10.3,
+            "sut": 50.0,
+            "defans": 5.0,
+            "fizik": 50.0,
+            "tecrube": 50.0
+        },
+        {
+            "id": 13,
+            "name": "Tuzak 4",
+            "mevki": "Defans",
+            "hiz": 10.4,
+            "pas": 10.4,
+            "sut": 50.0,
+            "defans": 5.0,
+            "fizik": 50.0,
+            "tecrube": 50.0
+        },
+        {
+            "id": 14,
+            "name": "Tuzak 5",
+            "mevki": "Defans",
+            "hiz": 10.5,
+            "pas": 10.5,
+            "sut": 50.0,
+            "defans": 5.0,
+            "fizik": 50.0,
+            "tecrube": 50.0
+        },
+        {
+            "id": 15,
+            "name": "Tuzak Sonu",
+            "mevki": "Kaleci",
+            "hiz": 10.6,
+            "pas": 10.6,
+            "sut": 50.0,
+            "defans": 5.0,
+            "fizik": 50.0,
+            "tecrube": 50.0
+        }
+    ],
+    "edges": [
+        {
+            "source": 1,
+            "target": 2,
+            "weight": 4.67
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "weight": 4.67
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "weight": 4.67
+        },
+        {
+            "source": 4,
+            "target": 5,
+            "weight": 4.67
+        },
+        {
+            "source": 1,
+            "target": 10,
+            "weight": 1.14
+        },
+        {
+            "source": 10,
+            "target": 11,
+            "weight": 1.14
+        },
+        {
+            "source": 11,
+            "target": 12,
+            "weight": 1.14
+        },
+        {
+            "source": 12,
+            "target": 13,
+            "weight": 1.14
+        },
+        {
+            "source": 13,
+            "target": 14,
+            "weight": 1.14
+        },
+        {
+            "source": 14,
+            "target": 15,
+            "weight": 1.14
+        }
+    ]
+}

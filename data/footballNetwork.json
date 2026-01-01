@@ -1,0 +1,501 @@
+{
+    "nodes": [
+        {
+            "id": 1,
+            "name": "Muslera (GK)",
+            "mevki": "Kaleci",
+            "hiz": 0.4,
+            "pas": 0.6,
+            "sut": 0.1,
+            "defans": 0.9,
+            "fizik": 0.7,
+            "tecrube": 0.95
+        },
+        {
+            "id": 2,
+            "name": "Kyle (RB)",
+            "mevki": "Defans",
+            "hiz": 0.9,
+            "pas": 0.7,
+            "sut": 0.4,
+            "defans": 0.8,
+            "fizik": 0.8,
+            "tecrube": 0.85
+        },
+        {
+            "id": 3,
+            "name": "Virgil (CB)",
+            "mevki": "Defans",
+            "hiz": 0.7,
+            "pas": 0.8,
+            "sut": 0.3,
+            "defans": 0.95,
+            "fizik": 0.9,
+            "tecrube": 0.9
+        },
+        {
+            "id": 4,
+            "name": "Ramos (CB)",
+            "mevki": "Defans",
+            "hiz": 0.65,
+            "pas": 0.75,
+            "sut": 0.6,
+            "defans": 0.9,
+            "fizik": 0.85,
+            "tecrube": 0.95
+        },
+        {
+            "id": 5,
+            "name": "Theo (LB)",
+            "mevki": "Defans",
+            "hiz": 0.92,
+            "pas": 0.7,
+            "sut": 0.5,
+            "defans": 0.75,
+            "fizik": 0.8,
+            "tecrube": 0.7
+        },
+        {
+            "id": 6,
+            "name": "Rodri (CDM)",
+            "mevki": "Orta Saha",
+            "hiz": 0.6,
+            "pas": 0.9,
+            "sut": 0.7,
+            "defans": 0.85,
+            "fizik": 0.85,
+            "tecrube": 0.8
+        },
+        {
+            "id": 7,
+            "name": "Kylian (LW)",
+            "mevki": "Forvet",
+            "hiz": 0.98,
+            "pas": 0.7,
+            "sut": 0.9,
+            "defans": 0.3,
+            "fizik": 0.75,
+            "tecrube": 0.7
+        },
+        {
+            "id": 8,
+            "name": "Kevin (CM)",
+            "mevki": "Orta Saha",
+            "hiz": 0.75,
+            "pas": 0.98,
+            "sut": 0.85,
+            "defans": 0.6,
+            "fizik": 0.75,
+            "tecrube": 0.9
+        },
+        {
+            "id": 9,
+            "name": "Erling (ST)",
+            "mevki": "Forvet",
+            "hiz": 0.9,
+            "pas": 0.6,
+            "sut": 0.95,
+            "defans": 0.4,
+            "fizik": 0.95,
+            "tecrube": 0.6
+        },
+        {
+            "id": 10,
+            "name": "Luka (CM)",
+            "mevki": "Orta Saha",
+            "hiz": 0.65,
+            "pas": 0.95,
+            "sut": 0.75,
+            "defans": 0.65,
+            "fizik": 0.6,
+            "tecrube": 0.98
+        },
+        {
+            "id": 11,
+            "name": "Mo Salah (RW)",
+            "mevki": "Forvet",
+            "hiz": 0.9,
+            "pas": 0.8,
+            "sut": 0.88,
+            "defans": 0.4,
+            "fizik": 0.7,
+            "tecrube": 0.9
+        },
+        {
+            "id": 12,
+            "name": "Altay (GK)",
+            "mevki": "Kaleci",
+            "hiz": 0.45,
+            "pas": 0.5,
+            "sut": 0.1,
+            "defans": 0.8,
+            "fizik": 0.75,
+            "tecrube": 0.6
+        },
+        {
+            "id": 13,
+            "name": "Kim (CB)",
+            "mevki": "Defans",
+            "hiz": 0.75,
+            "pas": 0.65,
+            "sut": 0.2,
+            "defans": 0.88,
+            "fizik": 0.85,
+            "tecrube": 0.6
+        },
+        {
+            "id": 14,
+            "name": "Ferdi (LB)",
+            "mevki": "Defans",
+            "hiz": 0.85,
+            "pas": 0.75,
+            "sut": 0.4,
+            "defans": 0.7,
+            "fizik": 0.7,
+            "tecrube": 0.5
+        },
+        {
+            "id": 17,
+            "name": "Icardi (ST)",
+            "mevki": "Forvet",
+            "hiz": 0.7,
+            "pas": 0.7,
+            "sut": 0.92,
+            "defans": 0.3,
+            "fizik": 0.8,
+            "tecrube": 0.85
+        },
+        {
+            "id": 18,
+            "name": "Vini Jr (LW)",
+            "mevki": "Forvet",
+            "hiz": 0.95,
+            "pas": 0.75,
+            "sut": 0.8,
+            "defans": 0.3,
+            "fizik": 0.7,
+            "tecrube": 0.5
+        },
+        {
+            "id": 19,
+            "name": "Saka (RW)",
+            "mevki": "Forvet",
+            "hiz": 0.85,
+            "pas": 0.8,
+            "sut": 0.75,
+            "defans": 0.5,
+            "fizik": 0.75,
+            "tecrube": 0.5
+        },
+        {
+            "id": 20,
+            "name": "Jude (CAM)",
+            "mevki": "Orta Saha",
+            "hiz": 0.8,
+            "pas": 0.85,
+            "sut": 0.8,
+            "defans": 0.7,
+            "fizik": 0.85,
+            "tecrube": 0.5
+        },
+        {
+            "id": 21,
+            "name": "Pedri (CM)",
+            "mevki": "Orta Saha",
+            "hiz": 0.75,
+            "pas": 0.9,
+            "sut": 0.6,
+            "defans": 0.6,
+            "fizik": 0.5,
+            "tecrube": 0.4
+        },
+        {
+            "id": 22,
+            "name": "Fred (CDM)",
+            "mevki": "Orta Saha",
+            "hiz": 0.8,
+            "pas": 0.75,
+            "sut": 0.6,
+            "defans": 0.75,
+            "fizik": 0.7,
+            "tecrube": 0.8
+        },
+        {
+            "id": 30,
+            "name": "Genc Yetenek 1 (CM)",
+            "mevki": "Orta Saha",
+            "hiz": 0.7,
+            "pas": 0.7,
+            "sut": 0.5,
+            "defans": 0.5,
+            "fizik": 0.6,
+            "tecrube": 0.1
+        },
+        {
+            "id": 31,
+            "name": "Genc Yetenek 2 (CB)",
+            "mevki": "Defans",
+            "hiz": 0.7,
+            "pas": 0.6,
+            "sut": 0.2,
+            "defans": 0.7,
+            "fizik": 0.7,
+            "tecrube": 0.1
+        },
+        {
+            "id": 32,
+            "name": "Yedek Forvet (ST)",
+            "mevki": "Forvet",
+            "hiz": 0.75,
+            "pas": 0.6,
+            "sut": 0.7,
+            "defans": 0.3,
+            "fizik": 0.7,
+            "tecrube": 0.4
+        },
+        {
+            "id": 50,
+            "name": "Hizli Kanat (RW)",
+            "mevki": "Forvet",
+            "hiz": 0.92,
+            "pas": 0.65,
+            "sut": 0.7,
+            "defans": 0.4,
+            "fizik": 0.6,
+            "tecrube": 0.3
+        },
+        {
+            "id": 99,
+            "name": "Emektar Kaptan (CB)",
+            "mevki": "Defans",
+            "hiz": 0.4,
+            "pas": 0.8,
+            "sut": 0.4,
+            "defans": 0.8,
+            "fizik": 0.6,
+            "tecrube": 1.0
+        }
+    ],
+    "edges": [
+        {
+            "source": 1,
+            "target": 3,
+            "weight": 1.0
+        },
+        {
+            "source": 1,
+            "target": 4,
+            "weight": 1.0
+        },
+        {
+            "source": 1,
+            "target": 13,
+            "weight": 1.0
+        },
+        {
+            "source": 12,
+            "target": 13,
+            "weight": 1.0
+        },
+        {
+            "source": 12,
+            "target": 99,
+            "weight": 1.0
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "weight": 1.0
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "weight": 1.0
+        },
+        {
+            "source": 4,
+            "target": 5,
+            "weight": 1.0
+        },
+        {
+            "source": 3,
+            "target": 6,
+            "weight": 1.0
+        },
+        {
+            "source": 4,
+            "target": 6,
+            "weight": 1.0
+        },
+        {
+            "source": 13,
+            "target": 14,
+            "weight": 1.0
+        },
+        {
+            "source": 14,
+            "target": 22,
+            "weight": 1.0
+        },
+        {
+            "source": 99,
+            "target": 31,
+            "weight": 1.0
+        },
+        {
+            "source": 99,
+            "target": 6,
+            "weight": 1.0
+        },
+        {
+            "source": 6,
+            "target": 8,
+            "weight": 1.0
+        },
+        {
+            "source": 6,
+            "target": 10,
+            "weight": 1.0
+        },
+        {
+            "source": 6,
+            "target": 22,
+            "weight": 1.0
+        },
+        {
+            "source": 22,
+            "target": 8,
+            "weight": 1.0
+        },
+        {
+            "source": 10,
+            "target": 8,
+            "weight": 1.0
+        },
+        {
+            "source": 10,
+            "target": 21,
+            "weight": 1.0
+        },
+        {
+            "source": 21,
+            "target": 20,
+            "weight": 1.0
+        },
+        {
+            "source": 8,
+            "target": 7,
+            "weight": 1.0
+        },
+        {
+            "source": 8,
+            "target": 9,
+            "weight": 1.0
+        },
+        {
+            "source": 8,
+            "target": 11,
+            "weight": 1.0
+        },
+        {
+            "source": 20,
+            "target": 18,
+            "weight": 1.0
+        },
+        {
+            "source": 20,
+            "target": 17,
+            "weight": 1.0
+        },
+        {
+            "source": 20,
+            "target": 19,
+            "weight": 1.0
+        },
+        {
+            "source": 10,
+            "target": 17,
+            "weight": 1.0
+        },
+        {
+            "source": 22,
+            "target": 19,
+            "weight": 1.0
+        },
+        {
+            "source": 7,
+            "target": 9,
+            "weight": 1.0
+        },
+        {
+            "source": 9,
+            "target": 11,
+            "weight": 1.0
+        },
+        {
+            "source": 18,
+            "target": 17,
+            "weight": 1.0
+        },
+        {
+            "source": 17,
+            "target": 19,
+            "weight": 1.0
+        },
+        {
+            "source": 30,
+            "target": 10,
+            "weight": 1.0
+        },
+        {
+            "source": 30,
+            "target": 21,
+            "weight": 1.0
+        },
+        {
+            "source": 31,
+            "target": 13,
+            "weight": 1.0
+        },
+        {
+            "source": 31,
+            "target": 4,
+            "weight": 1.0
+        },
+        {
+            "source": 32,
+            "target": 17,
+            "weight": 1.0
+        },
+        {
+            "source": 32,
+            "target": 9,
+            "weight": 1.0
+        },
+        {
+            "source": 50,
+            "target": 19,
+            "weight": 1.0
+        },
+        {
+            "source": 50,
+            "target": 2,
+            "weight": 1.0
+        },
+        {
+            "source": 1,
+            "target": 10,
+            "weight": 1.0
+        },
+        {
+            "source": 5,
+            "target": 7,
+            "weight": 1.0
+        },
+        {
+            "source": 2,
+            "target": 11,
+            "weight": 1.0
+        }
+    ]
+}
