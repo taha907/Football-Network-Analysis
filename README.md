@@ -124,6 +124,8 @@ Varsayılan heuristic kullanılır. Yolun fiziksel uzunluğunu veya index farkı
 #### B. Hız Odaklı Mod (Speed Heuristic)
 Algoritma, **Hız** özelliği yüksek olan oyuncular üzerinden gitmeye çalışır. Hızlı oyunculara ulaşmanın maliyeti sezgisel olarak düşürülür.
 > <img width="1431" height="1048" alt="image" src="https://github.com/user-attachments/assets/cb440e1c-6917-4f03-b674-d399bcb18a37" />
+<img width="932" height="1086" alt="image" src="https://github.com/user-attachments/assets/e1b9b6a9-f3ac-4ae3-a704-79e1c47218bb" />
+
 
 > *Hız odaklı modda, yol daha hızlı oyuncular üzerinden kıvrılarak gider.*
 
